@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 
-public class lab4c {
+public class guessgamejava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
